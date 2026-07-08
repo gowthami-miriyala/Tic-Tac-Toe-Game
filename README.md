@@ -29,5 +29,7 @@ Open the project folder.
 Launch the index.html file in your browser.
 Start playing!
 
+#Output :
 
+<img width="1353" height="768" alt="Image" src="https://github.com/user-attachments/assets/b6e955ac-1287-4436-bf51-448e70aa3e32" />
 
